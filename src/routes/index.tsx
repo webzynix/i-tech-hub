@@ -283,7 +283,7 @@ function MapSection() {
           <div className="overflow-hidden rounded-2xl border border-cyan/40 glow-cyan lg:col-span-2">
             <iframe
               title="iCare Technologies Location"
-              src="https://www.google.com/maps?q=SEK+Building,+1st+Floor,+Opp+Mayura+Bakery,+Channasandra,+Bengaluru,+Karnataka+560067&output=embed"
+              src="https://www.google.com/maps?q=I+Care+Technologies+Channasandra+Bengaluru&output=embed"
               width="100%"
               height="450"
               style={{ border: 0 }}
